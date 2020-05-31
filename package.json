@@ -1,0 +1,12 @@
+{
+  "name": "blog.yammer.fun",
+  "version": "1.0.0",
+  "description": "Redirect server\"",
+  "main": "index.js",
+  "repository": "https://github.com/basd4g/blog.yammer.fun.git",
+  "author": "Keisuke Nakayama <baskk4.dt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
