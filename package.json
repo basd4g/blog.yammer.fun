@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Redirect server\"",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/basd4g/blog.yammer.fun.git",
   "author": "Keisuke Nakayama <baskk4.dt@gmail.com>",
   "license": "MIT",
